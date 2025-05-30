@@ -25,6 +25,13 @@
               "CreateAccount",
               "development"
             ]
+          },
+          {
+            "group": "Servers",
+            "pages": [
+              "createserver",
+              "Paidplans"
+            ]
           }
         ]
       },

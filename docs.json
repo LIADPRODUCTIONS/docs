@@ -3,9 +3,9 @@
   "theme": "maple",
   "name": "AceNodes Docs",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#a6691e",
+    "light": "#c97807",
+    "dark": "#EF6C00"
   },
   "favicon": "/logo/logo.svg",
   "navigation": {

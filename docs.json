@@ -7,7 +7,7 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/logo/logo.svg",
   "navigation": {
     "tabs": [
       {
@@ -76,20 +76,20 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/logo.svg",
+    "dark": "/logo/logo.svg"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:support@acenodes.co.uk"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://deploy.acenodes.co.uk"
     }
   },
   "footer": {
